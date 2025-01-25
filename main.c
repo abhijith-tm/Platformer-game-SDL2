@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <time.h>
 #include "main.h"
+#include "status.h"
 
 #define GRAVITY  0.35f
 
