@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../../../home/abhijith/Videos/sdl2 testing 2/sdl2_testing/sdl2_testing"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"status.h": "c",
+			"sdl.h": "c",
+			"main.h": "c"
+		}
+	}
+}
