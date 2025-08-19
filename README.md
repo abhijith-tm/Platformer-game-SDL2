@@ -1,2 +1,2 @@
-# SDL2-Projects
-Game projects made using C and SDL2 library
+# SDL2-Project
+Game project made using C and SDL2 library
