@@ -78,4 +78,3 @@ Building this project taught me several key concepts in low-level programming:
 
 ---
 *Created with a lot of C.*
-
