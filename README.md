@@ -3,6 +3,8 @@
 > A retro-inspired 2D platformer built from the ground up using C and SDL2. 
 ---
 
+https://github.com/user-attachments/assets/0085c8d9-b6bf-48da-ad7f-4864ed2394ab
+
 ## Features
 
 - **Physics**: Real-time gravity, velocity-based movement, and tile-based collision detection.
@@ -59,7 +61,7 @@ Building this project taught me several key concepts in low-level programming:
 - **Memory Management**: Handling textures and sounds manually in C without a garbage collector.
 - **The Game Loop**: Understanding the relationship between events, logic processing, and rendering.
 - **Header Organization**: Managing complex data structures across multiple files (`main.h`, `status.h`).
-- **Linking & Makefiles**: Automating the build process with `sdl2-config`.
+- **Linking & Makefiles**: Automating the build process with makefile
 
 ---
 
