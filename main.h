@@ -12,10 +12,11 @@
 #define NUM_LEDGES 120
 
 
-#include "SDL2/SDL.h"
-#include "SDL_image.h"
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
-#include "SDL_mixer.h"
+#include <SDL2/SDL_mixer.h>
+#include <stdlib.h>
 
 
 typedef struct
@@ -76,7 +77,7 @@ typedef struct{
     SDL_Window *window;
 
 
-}GameState;  // some object implimentation eventhough its just a struct fuck you
+}GameState;  // some object implimentation eventhough its just a struct 
 
 //function prototypes
 void doRender(SDL_Renderer *renderer, GameState *game);
